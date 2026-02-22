@@ -126,10 +126,10 @@ span{
 .titre-5{
     font-family: "VT323", monospace;
     color : white;
-    text-align: left;
+    text-align: center;
 }
 .partie-5{
-    text-align: center;
+    text-align: left;
     color: white;
     width: 60%;
 }
